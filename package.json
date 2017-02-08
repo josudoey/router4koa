@@ -1,6 +1,6 @@
 {
   "name": "router4koa",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "provide a koa-router instance for singleton",
   "main": "index.js",
   "scripts": {
