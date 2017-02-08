@@ -9,7 +9,7 @@ $ npm install --save router4koa
 ## Example
 
 ```js
-var router = require('router4koa');
+var router = require('router4koa')(opts);
 router.get(...);
 router.post(...);
 
